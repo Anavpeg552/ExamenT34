@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da59f94-d4cf-4185-8951-b107da56df2d" name="Changes" comment="V1">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/EjercicioExamen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/Examen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2/Deposito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2/EjercicioDeposito.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/EjercicioExamen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1/EjercicioExamen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/Examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1/Examen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/Deposito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio2/Deposito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/EjercicioDeposito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio2/EjercicioDeposito.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -43,21 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/estudiante/Documents/ExamenT34/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EjercicioDeposito.executor": "Run",
+    "Application.EjercicioExamen.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/estudiante/Documents/ExamenT34/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1702455443908</updated>
       <workItem from="1702455445236" duration="1565000" />
-      <workItem from="1702458539756" duration="1182000" />
+      <workItem from="1702458539756" duration="2259000" />
+      <workItem from="1702460821327" duration="2994000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <option name="closed" value="true" />
@@ -92,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702455549132</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="V1">
+      <option name="closed" value="true" />
+      <created>1702460804914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702460804914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -5,13 +5,7 @@ public class Examen {
     private String titulo;
     private double calificacion;
 
-
-
-    public Examen(Examen examen){
-    }
-
-
-
+    private static String asignatura;
     public Examen(String titulo, double calificacion) throws Exception {
 
         if(titulo==null){
@@ -55,5 +49,19 @@ public class Examen {
         }
     }
 
-    static String asignatura;
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
+
+    public void setCalificacion(double calificacion) {
+        this.calificacion = calificacion;
+    }
+
+    public static String getAsignatura() {
+        return asignatura;
+    }
+
+    public static void setAsignatura(String asignatura) {
+        Examen.asignatura = asignatura;
+    }
 }
